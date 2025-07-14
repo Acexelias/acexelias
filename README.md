@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## CRM Project
+
+A minimal CRM skeleton is available in the `crm` directory. Run `npm install` and `npm start` inside that folder to launch the server.
